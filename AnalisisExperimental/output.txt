@@ -1,0 +1,5 @@
+TrieArray insert: 0.1678600000
+TrieArray getAll: 0.1179080000
+TrieArray search: 0.0429670000
+TrieArray getKTopMatches: 7.4154620000
+TrieArray remove: 0.1901700000
